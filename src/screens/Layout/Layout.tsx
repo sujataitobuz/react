@@ -17,7 +17,7 @@ export default function Layout() {
           <li className='text-black font-normal text-sm md:text-xmd'>
             <Link to="/"><span className='ml-5'>Home</span></Link>
             <Link to="/blogs"><span className='ml-5'>Blogs</span></Link>
-            <Link to="/contact"><span className='ml-5'>Contact</span></Link>
+            <Link to="/contact"><span className='ml-5'>Contact us</span></Link>
             <Link to="*"><span className='ml-5'>Another</span></Link>
           </li>
         </ul>
